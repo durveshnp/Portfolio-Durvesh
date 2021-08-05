@@ -10824,3 +10824,28 @@ section.resume-section .resume-section-content {
     height: 2px;
     width: 2px;
 }
+
+#projects {
+    margin: 0px auto;
+}
+
+.cards {
+    margin: 30px auto;
+}
+
+.card {
+    border: none !important;
+    box-shadow: 3px 4px 0px 0px #e63e00 !important;
+}
+
+.card-body {
+    background-color: #212529 !important;
+}
+
+#skills {
+    margin: 0px auto;
+}
+
+.btn-primary {
+    background-color: #e63e00 !important;
+}
